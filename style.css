@@ -1,0 +1,14 @@
+
+.card {
+  border: 1px solid black;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+.card-img-top {
+  height: 320px;
+  object-fit: cover;
+}
